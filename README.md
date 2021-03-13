@@ -1,3 +1,3 @@
 # ForCoreData
 Pending...
-//come back before 11/05/20
+A blueprint designed for sutdent-managing system
