@@ -1,3 +1,3 @@
 # ForCoreData
-Pending...
+
 A blueprint designed for sutdent-managing system
